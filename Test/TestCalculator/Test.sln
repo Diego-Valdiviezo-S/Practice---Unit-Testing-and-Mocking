@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCalculators", "TestCalculators.csproj", "{0A6EFF26-DBE1-4D42-9238-A4B438B211A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B283B625-F495-4C31-8F92-0C7913A013E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6DF6AB76-E906-4B9D-A789-CBF32AE09739}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculators", "..\src\Calculators.csproj", "{F907F34C-EA39-4620-A904-2F199E9E952C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6EFF26-DBE1-4D42-9238-A4B438B211A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6EFF26-DBE1-4D42-9238-A4B438B211A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6EFF26-DBE1-4D42-9238-A4B438B211A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6EFF26-DBE1-4D42-9238-A4B438B211A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F907F34C-EA39-4620-A904-2F199E9E952C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F907F34C-EA39-4620-A904-2F199E9E952C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F907F34C-EA39-4620-A904-2F199E9E952C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F907F34C-EA39-4620-A904-2F199E9E952C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A6EFF26-DBE1-4D42-9238-A4B438B211A0} = {B283B625-F495-4C31-8F92-0C7913A013E3}
+		{F907F34C-EA39-4620-A904-2F199E9E952C} = {6DF6AB76-E906-4B9D-A789-CBF32AE09739}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F73F314-1B01-4BB5-80B0-CCF1F2556A92}
+	EndGlobalSection
+EndGlobal
