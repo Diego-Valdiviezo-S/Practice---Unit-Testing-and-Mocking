@@ -1,0 +1,30 @@
+C:\Users\a875714\Documents\src\src\bin\Debug\net6.0\Calculators.exe
+C:\Users\a875714\Documents\src\src\bin\Debug\net6.0\Calculators.deps.json
+C:\Users\a875714\Documents\src\src\bin\Debug\net6.0\Calculators.runtimeconfig.json
+C:\Users\a875714\Documents\src\src\bin\Debug\net6.0\Calculators.dll
+C:\Users\a875714\Documents\src\src\bin\Debug\net6.0\Calculators.pdb
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.csproj.AssemblyReference.cache
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.AssemblyInfoInputs.cache
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.AssemblyInfo.cs
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.dll
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\refint\Calculators.dll
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.pdb
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\Calculators.genruntimeconfig.cache
+C:\Users\a875714\Documents\src\src\obj\Debug\net6.0\ref\Calculators.dll
+C:\Users\a875714\Documents\Practice - Unit Testing\src\bin\Debug\net6.0\Calculators.exe
+C:\Users\a875714\Documents\Practice - Unit Testing\src\bin\Debug\net6.0\Calculators.deps.json
+C:\Users\a875714\Documents\Practice - Unit Testing\src\bin\Debug\net6.0\Calculators.runtimeconfig.json
+C:\Users\a875714\Documents\Practice - Unit Testing\src\bin\Debug\net6.0\Calculators.dll
+C:\Users\a875714\Documents\Practice - Unit Testing\src\bin\Debug\net6.0\Calculators.pdb
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.csproj.AssemblyReference.cache
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.AssemblyInfoInputs.cache
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.AssemblyInfo.cs
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.dll
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\refint\Calculators.dll
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.pdb
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\Calculators.genruntimeconfig.cache
+C:\Users\a875714\Documents\Practice - Unit Testing\src\obj\Debug\net6.0\ref\Calculators.dll
